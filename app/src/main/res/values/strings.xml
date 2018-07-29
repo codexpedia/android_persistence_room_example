@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room Example</string>
+
+    <string name="books_borrowed_by_user">Books borrowed by Mike:</string>
+    <string name="refresh">Refresh</string>
+    <string name="young_users">Young users:</string>
+</resources>
